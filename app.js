@@ -30,7 +30,7 @@ async function uploadTrainData(trainTime) {
           // Instance of Google Sheets API
           const googleSheets = google.sheets({ version: "v4", auth: client });
 
-          const spreadsheetId = "1ew84lPR1NX9x0D1zYHmGLUOYknz80U90JMUXm8A_LrI";
+          const spreadsheetId = "1ew84lPR1NX9x0D1zYHmGLUOYknz80U90JMUXm8A_L";
 
           // Get metadata about spreadsheet
           const metaData = await googleSheets.spreadsheets.get({
