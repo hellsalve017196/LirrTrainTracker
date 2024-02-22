@@ -22,8 +22,8 @@ Additionally, you'll need:
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/yourusername/lirr-train-tracker.git
-    cd lirr-train-tracker
+    git clone https://github.com/hellsalve017196/LirrTrainTracker.git
+    cd LirrTrainTracker
     ```
 
 2. **Install dependencies**
